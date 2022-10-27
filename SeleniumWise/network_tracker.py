@@ -1,9 +1,16 @@
+"""
+The Module is used to track the network traffic of the browser.
+"""
 import logging
 import json
 from typing import Any
 
 
 class NetworkTracker:
+    """
+    The Class is used to track the network traffic of the browser.
+    """
+
     def __init__(self, driver):
         self.driver = driver
 

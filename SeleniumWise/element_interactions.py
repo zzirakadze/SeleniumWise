@@ -1,3 +1,6 @@
+"""
+The Module is a part of the SeleniumWise package.
+"""
 import logging
 from typing import List
 
@@ -7,6 +10,10 @@ from selenium.webdriver.support.wait import WebDriverWait
 
 
 class ElementOperations:
+    """
+    The following methods are for the WebElement class
+    """
+
     def __init__(self, driver):
         self.driver = driver
 

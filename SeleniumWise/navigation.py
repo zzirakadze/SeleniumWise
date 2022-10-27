@@ -1,9 +1,17 @@
+"""
+Module inherits the SeleniumWise class and adds navigation methods.
+"""
+
 import logging
 
 from selenium.webdriver.remote.webelement import WebElement
 
 
 class Navigation:
+    """
+    The following methods are not part of the SeleniumWise class
+    """
+
     def __init__(self, driver):
         self.driver = driver
 
