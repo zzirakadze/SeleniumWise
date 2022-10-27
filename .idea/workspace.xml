@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dc1ae77-2d77-475b-897e-afc9ea6c3312" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/pylint.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/SeleniumWise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SeleniumWise.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1dc1ae77-2d77-475b-897e-afc9ea6c3312" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -256,7 +246,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666873615563</updated>
       <workItem from="1666873620092" duration="15000" />
-      <workItem from="1666873647455" duration="6948000" />
+      <workItem from="1666873647455" duration="7323000" />
     </task>
     <servers />
   </component>
